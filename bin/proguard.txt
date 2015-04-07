@@ -1,0 +1,308 @@
+# view res/layout/activity_chat.xml #generated:232
+# view res/layout/fragment_emojicon.xml #generated:7
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:406
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/activity_baidumap.xml #generated:70
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:403
+-keep class com.easemob.chat.EMChatService { <init>(...); }
+
+# view AndroidManifest.xml #generated:389
+-keep class com.easemob.chat.StartServiceReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.fanxin.app.DemoApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.fanxin.app.activity.AddContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.fanxin.app.activity.BaiduMapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.fanxin.app.activity.BlacklistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.fanxin.app.activity.ContextMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.fanxin.app.activity.DiagnoseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class com.fanxin.app.activity.EditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.fanxin.app.activity.ExitGroupDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.fanxin.app.activity.FXAlertDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.fanxin.app.activity.ForwardMessageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class com.fanxin.app.activity.GroupBlacklistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.fanxin.app.activity.GroupDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.fanxin.app.activity.GroupPickContactsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.fanxin.app.activity.GroupSimpleDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.fanxin.app.activity.GroupsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.fanxin.app.activity.ImageGridActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.fanxin.app.activity.NewFriendsMsgActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.fanxin.app.activity.NewGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.fanxin.app.activity.PublicGroupsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.fanxin.app.activity.RecorderVideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.fanxin.app.activity.ShowBigImage { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.fanxin.app.activity.ShowNormalFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class com.fanxin.app.activity.ShowVideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.fanxin.app.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.fanxin.app.activity.VoiceCallActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:345
+-keep class com.fanxin.app.fx.AddFriendsFinalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:321
+-keep class com.fanxin.app.fx.AddFriendsOneActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:327
+-keep class com.fanxin.app.fx.AddFriendsTwoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.fanxin.app.fx.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:375
+-keep class com.fanxin.app.fx.ChatRoomActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:297
+-keep class com.fanxin.app.fx.ChatRoomSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:303
+-keep class com.fanxin.app.fx.ChatSingleSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:261
+-keep class com.fanxin.app.fx.ContactListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:369
+-keep class com.fanxin.app.fx.CreatChatRoomActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:279
+-keep class com.fanxin.app.fx.FriendDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:273
+-keep class com.fanxin.app.fx.FriendFindActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.fanxin.app.fx.FriendInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class com.fanxin.app.fx.GroupCreatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class com.fanxin.app.fx.LocalSearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.fanxin.app.fx.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.fanxin.app.fx.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class com.fanxin.app.fx.MainSocialActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:285
+-keep class com.fanxin.app.fx.MyGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:333
+-keep class com.fanxin.app.fx.MyUserInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:363
+-keep class com.fanxin.app.fx.NewFriendsActivity { <init>(...); }
+
+# view res/layout/social_main.xml #generated:9
+-keep class com.fanxin.app.fx.PullListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.fanxin.app.fx.QRCode { <init>(...); }
+
+# view AndroidManifest.xml #generated:243
+-keep class com.fanxin.app.fx.QRCodeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.fanxin.app.fx.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:309
+-keep class com.fanxin.app.fx.ReportActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:381
+-keep class com.fanxin.app.fx.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:267
+-keep class com.fanxin.app.fx.SocialNoticeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:357
+-keep class com.fanxin.app.fx.UpdateFxidActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:351
+-keep class com.fanxin.app.fx.UpdateNickActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:339
+-keep class com.fanxin.app.fx.UserInfoActivity { <init>(...); }
+
+# view res/layout/activity_group_details.xml #generated:57
+# view res/layout/expression_gridview.xml #generated:7
+# view res/layout/social_groupchatsetting_activity.xml #generated:71
+-keep class com.fanxin.app.widget.ExpandGridView { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:150
+-keep class com.fanxin.app.widget.PasteEditText { <init>(...); }
+
+# view res/layout/choose_griditem.xml #generated:12
+-keep class com.fanxin.app.widget.RecyclingImageView { <init>(...); }
+
+# view res/layout/activity_pick_contact_no_checkbox.xml #generated:42
+# view res/layout/fragment_contact_list.xml #generated:76
+# view res/layout/fragment_contactlist.xml #generated:51
+-keep class com.fanxin.app.widget.Sidebar { <init>(...); }
+
+# view res/layout/fragment_emojicon.xml #generated:17
+-keep class com.fanxin.app.widget.emojicon.CirclePageIndicator { <init>(...); }
+
+# view res/layout/activity_show_big_image.xml #generated:8
+-keep class com.fanxin.app.widget.photoview.PhotoView { <init>(...); }
+
+# onClick res/layout/activity_add_contact.xml #generated:84
+-keepclassmembers class * { *** addContact(...); }
+
+# onClick res/layout/activity_addfriends.xml #generated:18
+# onClick res/layout/activity_addfriends_final.xml #generated:14
+# onClick res/layout/activity_addfriends_two.xml #generated:18
+# onClick res/layout/activity_baidumap.xml #generated:22
+# onClick res/layout/activity_chat.xml #generated:16
+# onClick res/layout/activity_chatroom.xml #generated:14
+# onClick res/layout/activity_group_blacklist.xml #generated:14
+# onClick res/layout/activity_group_details.xml #generated:13
+# onClick res/layout/activity_login.xml #generated:14
+# onClick res/layout/activity_mychatroom.xml #generated:14
+# onClick res/layout/activity_myfrienddetail.xml #generated:14
+# onClick res/layout/activity_myinfo.xml #generated:13
+# onClick res/layout/activity_newfriendsmsg.xml #generated:14
+# onClick res/layout/activity_register.xml #generated:14
+# onClick res/layout/activity_setting.xml #generated:14
+# onClick res/layout/activity_singlechat_setting.xml #generated:14
+# onClick res/layout/activity_update_fxid.xml #generated:14
+# onClick res/layout/activity_update_nick.xml #generated:14
+# onClick res/layout/activity_userinfo.xml #generated:14
+# onClick res/layout/commom_back_btn.xml #generated:2
+# onClick res/layout/social_contactlist_activity.xml #generated:14
+# onClick res/layout/social_groupchatsetting_activity.xml #generated:14
+# onClick res/layout/social_groupcreat_activity.xml #generated:13
+# onClick res/layout/social_mygroup_activity.xml #generated:14
+# onClick res/layout/social_notice_activity.xml #generated:14
+# onClick res/layout/social_report_activity.xml #generated:14
+# onClick res/layout/social_singlechatsetting_activity.xml #generated:14
+-keepclassmembers class * { *** back(...); }
+
+# onClick res/layout/alert_dialog.xml #generated:61
+# onClick res/layout/logout_actionsheet.xml #generated:41
+-keepclassmembers class * { *** cancel(...); }
+
+# onClick res/layout/row_received_file.xml #generated:21
+-keepclassmembers class * { *** contactDetails(...); }
+
+# onClick res/layout/context_menu_for_text.xml #generated:10
+-keepclassmembers class * { *** copy(...); }
+
+# onClick res/layout/context_menu_for_image.xml #generated:28
+# onClick res/layout/context_menu_for_location.xml #generated:10
+# onClick res/layout/context_menu_for_text.xml #generated:28
+# onClick res/layout/context_menu_for_video.xml #generated:16
+# onClick res/layout/context_menu_for_voice.xml #generated:16
+-keepclassmembers class * { *** delete(...); }
+
+# onClick res/layout/activity_chat.xml #generated:150
+-keepclassmembers class * { *** editClick(...); }
+
+# onClick res/layout/activity_group_details.xml #generated:217
+-keepclassmembers class * { *** exitDeleteGroup(...); }
+
+# onClick res/layout/activity_group_details.xml #generated:204
+# onClick res/layout/social_groupchatsetting_activity.xml #generated:215
+-keepclassmembers class * { *** exitGroup(...); }
+
+# onClick res/layout/context_menu_for_image.xml #generated:45
+# onClick res/layout/context_menu_for_text.xml #generated:44
+-keepclassmembers class * { *** forward(...); }
+
+# onClick res/layout/logout_actionsheet.xml #generated:26
+-keepclassmembers class * { *** logout(...); }
+
+# onClick res/layout/row_sent_file.xml #generated:21
+-keepclassmembers class * { *** me(...); }
+
+# onClick res/layout/activity_chat.xml #generated:190
+-keepclassmembers class * { *** more(...); }
+
+# onClick res/layout/alert_dialog.xml #generated:75
+-keepclassmembers class * { *** ok(...); }
+
+# onClick res/layout/activity_chat.xml #generated:199
+# onClick res/layout/activity_chat.xml #generated:265
+# onClick res/layout/activity_chat.xml #generated:295
+# onClick res/layout/activity_chat.xml #generated:325
+# onClick res/layout/activity_chat.xml #generated:355
+# onClick res/layout/activity_chat.xml #generated:394
+# onClick res/layout/activity_chat.xml #generated:425
+-keepclassmembers class * { *** onClick(...); }
+
+# onClick res/layout/fragment_groups.xml #generated:26
+-keepclassmembers class * { *** onPublicGroups(...); }
+
+# onClick res/layout/activity_mian_temp.xml #generated:135
+# onClick res/layout/activity_mian_temp.xml #generated:165
+# onClick res/layout/activity_mian_temp.xml #generated:51
+# onClick res/layout/activity_mian_temp.xml #generated:93
+-keepclassmembers class * { *** onTabClicked(...); }
+
+# onClick res/layout/activity_add_contact.xml #generated:26
+-keepclassmembers class * { *** searchContact(...); }
+
+# onClick res/layout/activity_chat.xml #generated:109
+-keepclassmembers class * { *** setModeKeyboard(...); }
+
+# onClick res/layout/activity_chat.xml #generated:100
+-keepclassmembers class * { *** setModeVoice(...); }
+
+# onClick res/layout/activity_black_list.xml #generated:44
+-keepclassmembers class * { *** toGroupDetails(...); }
+

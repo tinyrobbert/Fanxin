@@ -1,0 +1,108 @@
+I/PackageInstaller(25429): no recommeded for this package: com.easemob.chat.test(ver=1)
+I/PackageManager(  468): Removing non-system package:com.easemob.chat.test
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+I/PackageManager(  468): Package com.easemob.chat.test codePath changed from /data/app/com.easemob.chat.test-1.apk to /data/app/com.easemob.chat.test-2.apk; Retaining data and using new
+I/PackageManager(  468): Running dexopt on: com.easemob.chat.test
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+W/PackageManager(  468): Code path for pkg : com.easemob.chat.test changing from /data/app/com.easemob.chat.test-1.apk to /data/app/com.easemob.chat.test-2.apk
+W/PackageManager(  468): Resource path for pkg : com.easemob.chat.test changing from /data/app/com.easemob.chat.test-1.apk to /data/app/com.easemob.chat.test-2.apk
+D/PackageManager(  468): New package installed in /data/app/com.easemob.chat.test-2.apk
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+D/Launcher.Model(  772): Got boardcast:Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+D/LauncherSettings(  772): Updating home screen for package com.easemob.chat.test
+D/Launcher.ScreenUtils(  772): Updating home screen for package com.easemob.chat.test with []
+D/Launcher.ScreenUtils(  772): No activities found for package com.easemob.chat.test
+I/UniformDownloadPkgInstallReceiver<FileAssistant>( 8764): [E][UniformDL] package operate broadcast. action:android.intent.action.PACKAGE_ADDED pkgName:package:com.easemob.chat.test
+D/Launcher.Model(  772): Got boardcast:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+I/UniformDownloadPkgInstallReceiver<FileAssistant>( 8764): [E][UniformDL] package operate broadcast. action:android.intent.action.PACKAGE_REPLACED pkgName:package:com.easemob.chat.test
+D/LauncherSettings(  772): Updating home screen for package com.easemob.chat.test
+D/Launcher.ScreenUtils(  772): Updating home screen for package com.easemob.chat.test with []
+D/Launcher.ScreenUtils(  772): No activities found for package com.easemob.chat.test
+D/BackupManagerService(  468): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+D/BackupManagerService(  468): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+I/PackageInstaller(27117): no recommeded for this package: com.easemob.chat.test(ver=1)
+I/PackageManager(  468): Removing non-system package:com.easemob.chat.test
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+I/PackageManager(  468): Package com.easemob.chat.test codePath changed from /data/app/com.easemob.chat.test-2.apk to /data/app/com.easemob.chat.test-1.apk; Retaining data and using new
+I/PackageManager(  468): Running dexopt on: com.easemob.chat.test
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+W/PackageManager(  468): Code path for pkg : com.easemob.chat.test changing from /data/app/com.easemob.chat.test-2.apk to /data/app/com.easemob.chat.test-1.apk
+W/PackageManager(  468): Resource path for pkg : com.easemob.chat.test changing from /data/app/com.easemob.chat.test-2.apk to /data/app/com.easemob.chat.test-1.apk
+D/PackageManager(  468): New package installed in /data/app/com.easemob.chat.test-1.apk
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+D/Launcher.Model(  772): Got boardcast:Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+I/UniformDownloadPkgInstallReceiver<FileAssistant>( 8764): [E][UniformDL] package operate broadcast. action:android.intent.action.PACKAGE_ADDED pkgName:package:com.easemob.chat.test
+D/LauncherSettings(  772): Updating home screen for package com.easemob.chat.test
+D/Launcher.ScreenUtils(  772): Updating home screen for package com.easemob.chat.test with []
+D/Launcher.ScreenUtils(  772): No activities found for package com.easemob.chat.test
+D/Launcher.Model(  772): Got boardcast:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+I/UniformDownloadPkgInstallReceiver<FileAssistant>( 8764): [E][UniformDL] package operate broadcast. action:android.intent.action.PACKAGE_REPLACED pkgName:package:com.easemob.chat.test
+D/LauncherSettings(  772): Updating home screen for package com.easemob.chat.test
+D/Launcher.ScreenUtils(  772): Updating home screen for package com.easemob.chat.test with []
+D/Launcher.ScreenUtils(  772): No activities found for package com.easemob.chat.test
+D/BackupManagerService(  468): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+D/BackupManagerService(  468): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.easemob.chat.test flg=0x8000010 (has extras) }
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+I/ActivityManager(  468): Start proc com.easemob.chat.test for added application com.easemob.chat.test: pid=27359 uid=10121 gids={3003, 1006, 1015, 1028}
+I/TestRunner(27359): started: test_only_logout_multiple_times(com.easemob.chat.unittest.EMSessionManagerUnitTest)
+I/TestRunner(27359): finished: test_only_logout_multiple_times(com.easemob.chat.unittest.EMSessionManagerUnitTest)
+I/TestRunner(27359): passed: test_only_logout_multiple_times(com.easemob.chat.unittest.EMSessionManagerUnitTest)
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+I/ActivityManager(  468): Killing proc 27359:com.easemob.chat.test/u0a121: force stop
+I/ActivityManager(  468): Force stopping package com.easemob.chat.test uid=10121
+I/ActivityManager(  468): Start proc com.easemob.chat.test for added application com.easemob.chat.test: pid=27403 uid=10121 gids={3003, 1006, 1015, 1028}
+I/TestRunner(27403): started: test_only_logout_multiple_times(com.easemob.chat.unittest.EMSessionManagerUnitTest)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:175)
+W/System.err(27403): 	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:555)
+W/System.err(27403): 	at com.easemob.chat.unittest.EMSessionManagerUnitTest.test_only_logout_multiple_times(EMSessionManagerUnitTest.java:57)
+W/System.err(27403): 	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:190)
